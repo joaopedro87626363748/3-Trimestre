@@ -1,0 +1,5 @@
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
