@@ -3,3 +3,58 @@ criarCARTAO(
     'pergunta',
     'resposta',
 )
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+criarCARTAO(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
