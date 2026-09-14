@@ -1,7 +1,7 @@
 criarCARTAO(
-    'categoria',
-    'pergunta',
-    'resposta',
+    'matemática',
+    'o que é um %',
+    'e um sinal sobre porcentagem, usado para calcular algo sobre dinheiro',
 )
 criarCARTAO(
     'categoria',
@@ -28,7 +28,7 @@ criarCARTAO(
     'pergunta',
     'resposta',
 )
-criarCARTAO(
+criarCAsRTAO(
     'categoria',
     'pergunta',
     'resposta',
